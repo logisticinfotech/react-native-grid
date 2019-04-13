@@ -1,0 +1,27 @@
+{
+  "name": "@logisticinfitech/react-native-grid",
+  "version": "1.0.0",
+  "description": "Grid Layout library for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logisticinfotech/react-native-grid.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "Grid",
+    "Layout",
+    "Column",
+    "Row",
+    "Square"
+  ],
+  "author": "Rupal Radadia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logisticinfotech/react-native-grid/issues"
+  },
+  "homepage": "https://github.com/logisticinfotech/react-native-grid#readme"
+}
