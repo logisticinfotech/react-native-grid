@@ -2,18 +2,20 @@ import React, { PureComponent } from "react";
 import { View } from "react-native";
 import { styles } from "./SectionStyle";
 import Constant from "./Constant";
+import PropTypes from "prop-types";
 
 export default class Square extends PureComponent {
     render() {
-        const { xSquares, ySquares, fullScreenWidth, allowHeightExcess } = this.props;
+        const { xSquares, ySquares, fullScreenWidth, allowHeightExcess, backgroundColor } = this.props;
         let dimensions = Constant.getSectionSize(xSquares, ySquares, fullScreenWidth);
         const maxHeight = allowHeightExcess ? null : dimensions.height;
+
         return (
             <View
                 style={[
                     styles.secondaryContainer,
                     {
-                        backgroundColor: "pink",
+                        backgroundColor: backgroundColor,
                         margin: dimensions.margin,
                         minHeight: dimensions.height,
                         maxHeight: maxHeight,
@@ -28,7 +30,20 @@ export default class Square extends PureComponent {
         );
     }
 }
-Square.prototypes = {
-    height: PropTypes.number,
-    width: PropTypes.number,
+Square.propTypes = {
+    xSquares: PropTypes.number,
+    ySquares: PropTypes.number,
+    backgroundColor: PropTypes.string,
+    allowHeightExcess: PropTypes.bool,
+    fullScreenWidth: PropTypes.bool,
+    style: PropTypes.oneOf(PropTypes.object, PropTypes.array, PropTypes.number),
+    children: PropTypes.oneOfType([PropTypes.arrayOf(PropTypes.node), PropTypes.node]),
+};
+Square.defaultProps = {
+    xSquares: 1,
+    ySquares: 1,
+    backgroundColor: "#D3D3D3",
+    allowHeightExcess: false,
+    fullScreenWidth: false,
+    style: null,
 };
