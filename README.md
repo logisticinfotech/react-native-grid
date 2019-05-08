@@ -27,12 +27,19 @@ Please check this blog for installation and usage [this link]() -->
 
 | Prop | Default | Type | Description |
 | ------ | -------- | ----- | ------------- |
-| width | Screen Width | `Number` | Width of the container.  |
 | height | Screen Height | `Number` | Height of the container. |
+| isNested | false | `Bool` | True if Container is nested. |
+| backgroundColor | white | `String` | Background color of Container. |
+| style | null | `style` | Style of Container. |
 
 #### For Square
 
 | Prop | Default | Type | Description |
 | ------ | -------- | ----- | ------------- |
-| width | Screen Width | `Number` | Width of the square.  |
-| height | Screen Height | `Number` | Height of the square. |
+| xSquares | 1 | `Number` | Number of squares you want horizontally.  |
+| ySquares | 1 | `Number` | Number of squares you want vertically. |
+| backgroundColor | #D3D3D3 | `String` | Background color of Square. |
+| allowHeightExcess | false | `Bool` | Allow height access to square or not. |
+| fullScreenWidth | false | `Bool` | If you want full screen width grid. |
+| backgroundColor | #D3D3D3 | `String` | Background color of Square. |
+| style | null | `style` | Style of Square. |
