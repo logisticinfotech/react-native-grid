@@ -41,5 +41,4 @@ Please check this blog for installation and usage [this link]() -->
 | backgroundColor | #D3D3D3 | `String` | Background color of Square. |
 | allowHeightExcess | false | `Bool` | Allow height access to square or not. |
 | fullScreenWidth | false | `Bool` | If you want full screen width grid. |
-| backgroundColor | #D3D3D3 | `String` | Background color of Square. |
 | style | null | `style` | Style of Square. |
