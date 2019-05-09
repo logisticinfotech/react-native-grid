@@ -4,7 +4,7 @@
     <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
 </p>
 
-### React Native horizontal date picker
+### React Native Grid
 
 ## Npm repo
 https://www.npmjs.com/package/@logisticinfotech/react-native-grid
