@@ -1,5 +1,5 @@
 <p align="left">
-    <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"><img alt="npm version" src="https://img.shields.io/badge/npm-v1.0.0-green.svg"></a>
+    <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"><img alt="npm version" src="https://img.shields.io/badge/npm-v1.0.2-green.svg"></a>
     <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"><img src="https://img.shields.io/badge/downloads-%3E1K-yellow.svg"></a>
     <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
 </p>
@@ -40,5 +40,5 @@ Please check this blog for installation and usage [this link]() -->
 | ySquares | 1 | `Number` | Number of squares you want vertically. |
 | backgroundColor | #D3D3D3 | `String` | Background color of Square. |
 | allowHeightExcess | false | `Bool` | Allow height access to square or not. |
-| fullScreenWidth | false | `Bool` | If you want full screen width grid. |
+| fullScreenWidth | false | `Bool` | Allow full screen width grid or not. |
 | style | null | `style` | Style of Square. |
