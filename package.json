@@ -1,6 +1,6 @@
 {
   "name": "@logisticinfotech/react-native-grid-library",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Grid Layout library for React Native",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/logisticinfotech/react-native-grid-library/issues"
   },
-  "homepage": "https://github.com/logisticinfotech/react-native-grid-library#readme",
+  "homepage": "https://www.logisticinfotech.com/blog/react-native-grid-library/",
   "dependencies": {
     "prop-types": "^15.7.2"
   }
