@@ -1,6 +1,6 @@
 {
   "name": "@logisticinfotech/react-native-grid-library",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Grid Layout library for React Native",
   "main": "index.js",
   "scripts": {
