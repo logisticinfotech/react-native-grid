@@ -3,10 +3,10 @@
 [In this article](https://www.logisticinfotech.com/blog/react-native-grid-library/) you will get step by step details about the library and its implementations with your React Native project
 
 ## Npm repo
-https://www.npmjs.com/package/@logisticinfotech/react-native-grid
+https://www.npmjs.com/package/@logisticinfotech/react-native-grid-library
 
 ## Git repo
-https://github.com/logisticinfotech/react-native-grid
+https://github.com/logisticinfotech/react-native-grid-library
 
 
 ![](RNGrid.png)
