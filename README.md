@@ -1,10 +1,6 @@
-<p align="left">
-    <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"><img alt="npm version" src="https://img.shields.io/badge/npm-v1.0.2-green.svg"></a>
-    <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"><img src="https://img.shields.io/badge/downloads-%3E1K-yellow.svg"></a>
-    <a href="https://www.npmjs.com/package/@logisticinfotech/react-native-grid"<><img src="https://img.shields.io/badge/license-MIT-orange.svg"></a>
-</p>
+### React Native Grid Library
 
-### React Native Grid
+[In this article](https://www.logisticinfotech.com/blog/react-native-grid-library/) you will get step by step details about the library and its implementations with your React Native project
 
 ## Npm repo
 https://www.npmjs.com/package/@logisticinfotech/react-native-grid
