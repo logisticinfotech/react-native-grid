@@ -8,10 +8,6 @@ https://www.npmjs.com/package/@logisticinfotech/react-native-grid
 ## Git repo
 https://github.com/logisticinfotech/react-native-grid
 
-# Guide
-
-# Installation and Usage
-Please check this blog for installation and usage [this link](https://www.logisticinfotech.com/blog/react-native-grid-library/)
 
 ![](RNGrid.png)
 
