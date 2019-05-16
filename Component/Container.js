@@ -57,6 +57,7 @@ Container.propTypes = {
   style: PropTypes.oneOf(PropTypes.object, PropTypes.array, PropTypes.number),
   children: PropTypes.oneOfType([PropTypes.arrayOf(PropTypes.node), PropTypes.node]),
 }
+
 Container.defaultProps = {
   height: Constant.CONTAINER_HEIGHT,
   isNested: false,

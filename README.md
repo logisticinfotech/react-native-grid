@@ -14,10 +14,12 @@ https://github.com/logisticinfotech/react-native-grid
 
 # Guide
 
-<!-- # Installation and Usage
-Please check this blog for installation and usage [this link]() -->
+# Installation and Usage
+Please check this blog for installation and usage [this link](https://www.logisticinfotech.com/blog/react-native-grid-library/)
 
 ![](RNGrid.png)
+
+<!-- 
 
 ## Properties
 
@@ -41,4 +43,4 @@ Please check this blog for installation and usage [this link]() -->
 | backgroundColor | #D3D3D3 | `String` | Background color of Square. |
 | allowHeightExcess | false | `Bool` | Allow height access to square or not. |
 | fullScreenWidth | false | `Bool` | Allow full screen width grid or not. |
-| style | null | `style` | Style of Square. |
+| style | null | `style` | Style of Square. | -->
